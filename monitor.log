@@ -1,0 +1,8 @@
+2026-10-19 17:16:04,751 - INFO - Monitoring Service Started.
+2026-10-19 17:16:05,356 - ERROR - WEB DOWN: cict.lk (Status: 000) - No Description Provided
+2026-10-19 17:16:10,151 - INFO - Email Sent: 🚨 ALERT: No Description Provided Down External
+2026-10-19 17:16:10,262 - ERROR - WEB DOWN: SLPA.lk (Status: 000) - No Description Provided
+2026-10-19 17:16:15,084 - INFO - Email Sent: 🚨 ALERT: No Description Provided Down External
+2026-10-26 00:33:22,089 - INFO - Alert Sent Successfully: [ALERT] WEB Down: SLPA_Web_Portal
+2026-10-26 02:59:22,015 - INFO - Alert Sent Successfully: [RESOLVED] WEB Restored: SLPA_Web_Portal
+2026-10-26 09:29:55,575 - INFO - Alert Sent Successfully: [ALERT] WEB Down: CICT_Web_Portal

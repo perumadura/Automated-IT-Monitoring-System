@@ -1,0 +1,8 @@
+# --- Internal Core Network & Servers ---
+192.168.1.22      Firewall_(Sophos_Ltd)      		    email@domain.com, email2@domain.com
+192.168.1.33     NEC_SL_1000_PABX_(NEC_Platforms)            email@domain.com, email2@domain.com
+192.168.1.44     WEB_(Dell_Inc)                              email@domain.com, email2@domain.com
+
+124.43.12.20    SLT_FTTX_site_1                                email@domain.com, email2@domain.com
+124.43.12.42    SLT_SIte_2                                  email@domain.com, email2@domain.com
+124.43.19.58    SLT_FTTX _Site3                          email@domain.com, email2@domain.com, thilaka.freeport@pership.com

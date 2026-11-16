@@ -1,0 +1,2 @@
+yourmail@domain.com
+yourAppPassword
